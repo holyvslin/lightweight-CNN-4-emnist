@@ -1,0 +1,543 @@
+('Extracting', 'data/emnist/emnist-balanced-train-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-train-labels-idx1-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-labels-idx1-ubyte.gz')
+112800
+18800
+112800
+18800
+Tensor("Reshape_1:0", shape=(?, 25), dtype=float32)
+Tensor("Relu_8:0", shape=(?, 512), dtype=float32)
+build time: 1.10909509659
+('Extracting', 'data/emnist/emnist-balanced-train-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-train-labels-idx1-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-labels-idx1-ubyte.gz')
+112800
+18800
+112800
+18800
+input time 0.770468950272
+batch size: 10
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  0 , acy_on_test: 79.62%(14969/18800),loss_on_test:12215.58, acy_on_train: 80.16%(90426/112800),loss_on_train:69157.94, time:1252.62919807
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  1 , acy_on_test: 81.79%(15376/18800),loss_on_test:10662.48, acy_on_train: 82.61%(93179/112800),loss_on_train:59203.03, time:1247.78144503
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  2 , acy_on_test: 83.29%(15659/18800),loss_on_test:9794.84, acy_on_train: 84.21%(94987/112800),loss_on_train:53129.71, time:1250.92160106
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  3 , acy_on_test: 83.64%(15725/18800),loss_on_test:9392.86, acy_on_train: 84.78%(95636/112800),loss_on_train:50322.41, time:1250.1903739
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  4 , acy_on_test: 84.29%(15847/18800),loss_on_test:9141.23, acy_on_train: 85.55%(96506/112800),loss_on_train:48236.93, time:1249.05538011
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  5 , acy_on_test: 84.61%(15907/18800),loss_on_test:8856.84, acy_on_train: 85.82%(96806/112800),loss_on_train:46705.45, time:1255.75194907
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  6 , acy_on_test: 84.83%(15948/18800),loss_on_test:8841.65, acy_on_train: 86.08%(97093/112800),loss_on_train:45622.85, time:1253.13770103
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  7 , acy_on_test: 85.09%(15997/18800),loss_on_test:8575.36, acy_on_train: 86.55%(97625/112800),loss_on_train:44075.35, time:1252.09356403
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  8 , acy_on_test: 85.11%(16001/18800),loss_on_test:8572.45, acy_on_train: 86.61%(97694/112800),loss_on_train:43750.33, time:1248.79258299
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  9 , acy_on_test: 85.22%(16021/18800),loss_on_test:8504.10, acy_on_train: 86.82%(97929/112800),loss_on_train:42901.17, time:1251.61674619
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 10 , acy_on_test: 85.22%(16021/18800),loss_on_test:8396.66, acy_on_train: 87.04%(98185/112800),loss_on_train:42366.28, time:1252.00119495
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 11 , acy_on_test: 85.49%(16072/18800),loss_on_test:8393.01, acy_on_train: 87.13%(98281/112800),loss_on_train:42098.33, time:1253.38011384
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 12 , acy_on_test: 85.51%(16076/18800),loss_on_test:8326.62, acy_on_train: 87.24%(98405/112800),loss_on_train:41804.66, time:1252.16796303
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 13 , acy_on_test: 85.49%(16072/18800),loss_on_test:8322.38, acy_on_train: 87.23%(98399/112800),loss_on_train:41474.92, time:1251.80008793
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 14 , acy_on_test: 85.39%(16054/18800),loss_on_test:8374.60, acy_on_train: 87.22%(98389/112800),loss_on_train:41475.78, time:1251.40096307
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 15 , acy_on_test: 85.57%(16088/18800),loss_on_test:8319.24, acy_on_train: 87.31%(98485/112800),loss_on_train:41223.45, time:1249.97888803
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 16 , acy_on_test: 85.53%(16080/18800),loss_on_test:8287.64, acy_on_train: 87.39%(98579/112800),loss_on_train:41080.08, time:1254.04823399
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 17 , acy_on_test: 85.66%(16104/18800),loss_on_test:8291.61, acy_on_train: 87.39%(98574/112800),loss_on_train:41077.13, time:1252.34152007
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 18 , acy_on_test: 85.59%(16090/18800),loss_on_test:8289.42, acy_on_train: 87.40%(98592/112800),loss_on_train:40989.98, time:1251.82719088
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 19 , acy_on_test: 85.56%(16086/18800),loss_on_test:8292.22, acy_on_train: 87.43%(98616/112800),loss_on_train:40884.33, time:1252.57122922
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 20 , acy_on_test: 85.66%(16104/18800),loss_on_test:8286.56, acy_on_train: 87.41%(98595/112800),loss_on_train:40861.43, time:1254.0381341
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 21 , acy_on_test: 85.61%(16094/18800),loss_on_test:8278.16, acy_on_train: 87.43%(98624/112800),loss_on_train:40839.15, time:1250.31283283
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 22 , acy_on_test: 85.60%(16092/18800),loss_on_test:8276.99, acy_on_train: 87.45%(98647/112800),loss_on_train:40806.71, time:1250.17509913
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 23 , acy_on_test: 85.60%(16092/18800),loss_on_test:8290.30, acy_on_train: 87.45%(98638/112800),loss_on_train:40785.20, time:1251.66261506
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 24 , acy_on_test: 85.70%(16111/18800),loss_on_test:8276.50, acy_on_train: 87.47%(98661/112800),loss_on_train:40749.52, time:1251.50929117
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 25 , acy_on_test: 85.67%(16106/18800),loss_on_test:8276.28, acy_on_train: 87.46%(98654/112800),loss_on_train:40741.47, time:1252.06983995
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 26 , acy_on_test: 85.66%(16104/18800),loss_on_test:8274.83, acy_on_train: 87.47%(98668/112800),loss_on_train:40752.93, time:1251.86262989
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 27 , acy_on_test: 85.66%(16105/18800),loss_on_test:8277.51, acy_on_train: 87.49%(98692/112800),loss_on_train:40724.39, time:1254.83240294
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 28 , acy_on_test: 85.64%(16100/18800),loss_on_test:8275.62, acy_on_train: 87.48%(98674/112800),loss_on_train:40729.45, time:1249.65752387
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 29 , acy_on_test: 85.60%(16092/18800),loss_on_test:8277.21, acy_on_train: 87.50%(98696/112800),loss_on_train:40705.63, time:1256.29413891
+Parsing Inputs...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_peak_bytes             0
+-min_residual_bytes         0
+-min_output_bytes           0
+-min_micros                 0
+-min_accelerator_micros     0
+-min_cpu_micros             0
+-min_params                 0
+-min_float_ops              1
+-min_occurrence             0
+-step                       -1
+-order_by                   float_ops
+-account_type_regexes       .*
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     float_ops
+-output                     stdout:
+
+==================Model Analysis Report======================
+
+Doc:
+scope: The nodes in the model graph are organized by their names, which is hierarchical like filesystem.
+flops: Number of float operations. Note: Please read the implementation for the math behind it.
+
+Profile:
+node name | # float_ops
+_TFProfRoot (--/81.07k flops)
+  truncated_normal_13 (24.06k/48.13k flops)
+    truncated_normal_13/mul (24.06k/24.06k flops)
+  truncated_normal_12 (12.80k/25.60k flops)
+    truncated_normal_12/mul (12.80k/12.80k flops)
+  truncated_normal_9 (1.15k/2.30k flops)
+    truncated_normal_9/mul (1.15k/1.15k flops)
+  truncated_normal_10 (1.15k/2.30k flops)
+    truncated_normal_10/mul (1.15k/1.15k flops)
+  truncated_normal_7 (576/1.15k flops)
+    truncated_normal_7/mul (576/576 flops)
+  truncated_normal_4 (288/576 flops)
+    truncated_normal_4/mul (288/288 flops)
+  truncated_normal_1 (144/288 flops)
+    truncated_normal_1/mul (144/144 flops)
+  truncated_normal_11 (128/256 flops)
+    truncated_normal_11/mul (128/128 flops)
+  truncated_normal_6 (64/128 flops)
+    truncated_normal_6/mul (64/64 flops)
+  truncated_normal_8 (64/128 flops)
+    truncated_normal_8/mul (64/64 flops)
+  truncated_normal_3 (32/64 flops)
+    truncated_normal_3/mul (32/32 flops)
+  truncated_normal_5 (32/64 flops)
+    truncated_normal_5/mul (32/32 flops)
+  truncated_normal (16/32 flops)
+    truncated_normal/mul (16/16 flops)
+  truncated_normal_2 (16/32 flops)
+    truncated_normal_2/mul (16/16 flops)
+  Adam (1/3 flops)
+    Adam/mul (1/1 flops)
+    Adam/mul_1 (1/1 flops)
+  ExponentialDecay (1/3 flops)
+    ExponentialDecay/Pow (1/1 flops)
+    ExponentialDecay/truediv (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub_2 (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub_1 (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub (1/1 flops)
+  gradients/Mean_grad/Maximum (1/1 flops)
+  dropout/random_uniform/sub (1/1 flops)
+
+======================End of Report==========================
+Parsing Inputs...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_peak_bytes             0
+-min_residual_bytes         0
+-min_output_bytes           0
+-min_micros                 0
+-min_accelerator_micros     0
+-min_cpu_micros             0
+-min_params                 0
+-min_float_ops              0
+-min_occurrence             0
+-step                       -1
+-order_by                   name
+-account_type_regexes       _trainable_variables
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     params
+-output                     stdout:
+
+==================Model Analysis Report======================
+
+Doc:
+scope: The nodes in the model graph are organized by their names, which is hierarchical like filesystem.
+param: Number of parameters (in the Variable).
+
+Profile:
+node name | # parameters
+_TFProfRoot (--/42.30k params)
+  Variable (1x1x1x16, 16/16 params)
+  Variable_1 (16, 16/16 params)
+  Variable_10 (1x1x32x1, 32/32 params)
+  Variable_11 (1, 1/1 params)
+  Variable_12 (1x1x1x64, 64/64 params)
+  Variable_13 (64, 64/64 params)
+  Variable_14 (3x3x64x1, 576/576 params)
+  Variable_15 (1, 1/1 params)
+  Variable_16 (1x1x64x1, 64/64 params)
+  Variable_17 (1, 1/1 params)
+  Variable_18 (3x3x1x128, 1.15k/1.15k params)
+  Variable_19 (128, 128/128 params)
+  Variable_2 (3x3x16x1, 144/144 params)
+  Variable_20 (3x3x128x1, 1.15k/1.15k params)
+  Variable_21 (1, 1/1 params)
+  Variable_22 (1x1x128x1, 128/128 params)
+  Variable_23 (1, 1/1 params)
+  Variable_24 (25x512, 12.80k/12.80k params)
+  Variable_25 (512, 512/512 params)
+  Variable_26 (512x47, 24.06k/24.06k params)
+  Variable_27 (47, 47/47 params)
+  Variable_28 (1, 1/1 params)
+  Variable_3 (1, 1/1 params)
+  Variable_4 (1x1x16x1, 16/16 params)
+  Variable_5 (1, 1/1 params)
+  Variable_6 (1x1x1x32, 32/32 params)
+  Variable_7 (32, 32/32 params)
+  Variable_8 (3x3x32x1, 288/288 params)
+  Variable_9 (1, 1/1 params)
+  batch_normalization (--/32 params)
+    batch_normalization/beta (16, 16/16 params)
+    batch_normalization/gamma (16, 16/16 params)
+  batch_normalization_1 (--/32 params)
+    batch_normalization_1/beta (16, 16/16 params)
+    batch_normalization_1/gamma (16, 16/16 params)
+  batch_normalization_10 (--/256 params)
+    batch_normalization_10/beta (128, 128/128 params)
+    batch_normalization_10/gamma (128, 128/128 params)
+  batch_normalization_11 (--/2 params)
+    batch_normalization_11/beta (1, 1/1 params)
+    batch_normalization_11/gamma (1, 1/1 params)
+  batch_normalization_2 (--/2 params)
+    batch_normalization_2/beta (1, 1/1 params)
+    batch_normalization_2/gamma (1, 1/1 params)
+  batch_normalization_3 (--/64 params)
+    batch_normalization_3/beta (32, 32/32 params)
+    batch_normalization_3/gamma (32, 32/32 params)
+  batch_normalization_4 (--/64 params)
+    batch_normalization_4/beta (32, 32/32 params)
+    batch_normalization_4/gamma (32, 32/32 params)
+  batch_normalization_5 (--/2 params)
+    batch_normalization_5/beta (1, 1/1 params)
+    batch_normalization_5/gamma (1, 1/1 params)
+  batch_normalization_6 (--/128 params)
+    batch_normalization_6/beta (64, 64/64 params)
+    batch_normalization_6/gamma (64, 64/64 params)
+  batch_normalization_7 (--/128 params)
+    batch_normalization_7/beta (64, 64/64 params)
+    batch_normalization_7/gamma (64, 64/64 params)
+  batch_normalization_8 (--/2 params)
+    batch_normalization_8/beta (1, 1/1 params)
+    batch_normalization_8/gamma (1, 1/1 params)
+  batch_normalization_9 (--/256 params)
+    batch_normalization_9/beta (128, 128/128 params)
+    batch_normalization_9/gamma (128, 128/128 params)
+
+======================End of Report==========================
+FLOPs: 81067;    Trainable params: 42304
+##########################################
+epoch_cost_time_train_mobilenetv2_relu_6w= [1187.93084693 1182.97365618 1186.20625687 1184.57060385 1183.62155914
+ 1190.17758322 1187.69423914 1186.30728698 1184.07149005 1185.904248
+ 1186.526582   1187.94833684 1187.37272716 1186.17142296 1185.44580412
+ 1185.19432688 1188.24540186 1186.96573997 1186.24464607 1187.13646603
+ 1188.21436596 1184.9663198  1185.46935606 1185.34593797 1186.49922609
+ 1186.83320498 1186.5772419  1189.26680899 1184.50591588 1190.14315605]
+epoch_cost_time_test_mobilenetv2_relu_6w= [64.69835114 64.80778885 64.71534419 65.61977005 65.43382096 65.57436585
+ 65.44346189 65.78627706 64.72109294 65.71249819 65.47461295 65.431777
+ 64.79523587 65.62866497 65.95515895 64.78456116 65.80283213 65.37578011
+ 65.5825448  65.43476319 65.82376814 65.34651303 64.70574307 66.31667709
+ 65.01006508 65.23663497 65.28538799 65.56559396 65.15160799 66.15098286]
+epoch_cost_time_mobilenetv2_relu_6w= [1252.62919807 1247.78144503 1250.92160106 1250.1903739  1249.05538011
+ 1255.75194907 1253.13770103 1252.09356403 1248.79258299 1251.61674619
+ 1252.00119495 1253.38011384 1252.16796303 1251.80008793 1251.40096307
+ 1249.97888803 1254.04823399 1252.34152007 1251.82719088 1252.57122922
+ 1254.0381341  1250.31283283 1250.17509913 1251.66261506 1251.50929117
+ 1252.06983995 1251.86262989 1254.83240294 1249.65752387 1256.29413891]
+fig_acy_on_train_mobilenetv2_relu_6w= [0.80164894 0.82605496 0.84208333 0.84783688 0.85554965 0.85820922
+ 0.86075355 0.86546986 0.86608156 0.86816489 0.8704344  0.87128546
+ 0.87238475 0.87233156 0.87224291 0.87309397 0.8739273  0.87388298
+ 0.87404255 0.87425532 0.87406915 0.87432624 0.87453014 0.87445035
+ 0.87465426 0.8745922  0.87471631 0.87492908 0.8747695  0.87496454]
+fig_acy_on_test_mobilenetv2_relu_6w= [0.7962234  0.81787234 0.83292553 0.83643617 0.84292553 0.84611702
+ 0.84829787 0.85090426 0.85111702 0.85218085 0.85218085 0.85489362
+ 0.85510638 0.85489362 0.85393617 0.85574468 0.85531915 0.85659574
+ 0.85585106 0.8556383  0.85659574 0.85606383 0.85595745 0.85595745
+ 0.85696809 0.85670213 0.85659574 0.85664894 0.85638298 0.85595745]
+fig_loss_on_train_mobilenetv2_relu_6w= [69157.93744883 59203.03328943 53129.70805198 50322.41112882
+ 48236.93442228 46705.4498338  45622.8521559  44075.35000467
+ 43750.32942345 42901.16705865 42366.27916381 42098.33354603
+ 41804.66157607 41474.91723621 41475.78458597 41223.45245908
+ 41080.08252946 41077.12857099 40989.97895194 40884.3250787
+ 40861.42699995 40839.14561878 40806.71204707 40785.20320569
+ 40749.51593056 40741.46670143 40752.92877212 40724.39058415
+ 40729.44760359 40705.63274095]
+fig_loss_on_test_mobilenetv2_relu_6w= [12215.57991296 10662.47820415  9794.83745907  9392.86182232
+  9141.22618771  8856.83881366  8841.64958863  8575.3588433
+  8572.45318559  8504.09658307  8396.66272019  8393.0119729
+  8326.61827363  8322.38053679  8374.60451473  8319.24137155
+  8287.64234234  8291.60822323  8289.41903447  8292.2203083
+  8286.55633143  8278.16260174  8276.99036943  8290.30416694
+  8276.49792046  8276.28359421  8274.82879007  8277.50999367
+  8275.61914206  8277.21220026]
+train time 37558.4039972

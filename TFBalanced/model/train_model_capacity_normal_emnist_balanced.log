@@ -1,0 +1,458 @@
+('Extracting', 'data/emnist/emnist-balanced-train-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-train-labels-idx1-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-labels-idx1-ubyte.gz')
+112800
+18800
+112800
+18800
+build time: 0.331356048584
+('Extracting', 'data/emnist/emnist-balanced-train-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-train-labels-idx1-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-images-idx3-ubyte.gz')
+('Extracting', 'data/emnist/emnist-balanced-test-labels-idx1-ubyte.gz')
+112800
+18800
+112800
+18800
+input time 0.806304931641
+batch size: 10
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  0 , acy_on_test: 82.94%(15592/18800),loss_on_test:9904.34, acy_on_train: 84.32%(95111/112800),loss_on_train:53589.65, time:654.037441015
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  1 , acy_on_test: 85.59%(16091/18800),loss_on_test:7965.73, acy_on_train: 87.63%(98843/112800),loss_on_train:40623.57, time:651.513803005
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  2 , acy_on_test: 86.46%(16255/18800),loss_on_test:7254.09, acy_on_train: 89.04%(100436/112800),loss_on_train:34896.77, time:651.071800947
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  3 , acy_on_test: 87.33%(16418/18800),loss_on_test:6840.28, acy_on_train: 90.11%(101640/112800),loss_on_train:31097.81, time:650.820125818
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  4 , acy_on_test: 88.10%(16562/18800),loss_on_test:6449.78, acy_on_train: 91.02%(102671/112800),loss_on_train:27653.78, time:649.896893024
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  5 , acy_on_test: 88.01%(16546/18800),loss_on_test:6532.99, acy_on_train: 91.30%(102984/112800),loss_on_train:26103.80, time:649.009665012
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  6 , acy_on_test: 88.18%(16577/18800),loss_on_test:6328.12, acy_on_train: 92.08%(103863/112800),loss_on_train:23933.62, time:653.458091021
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  7 , acy_on_test: 88.06%(16555/18800),loss_on_test:6447.93, acy_on_train: 92.36%(104182/112800),loss_on_train:22420.86, time:653.914276838
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  8 , acy_on_test: 88.43%(16625/18800),loss_on_test:6266.40, acy_on_train: 93.23%(105161/112800),loss_on_train:20190.85, time:652.021768808
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch -  9 , acy_on_test: 88.33%(16606/18800),loss_on_test:6373.50, acy_on_train: 93.44%(105395/112800),loss_on_train:19634.26, time:656.834106922
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 10 , acy_on_test: 88.52%(16641/18800),loss_on_test:6522.52, acy_on_train: 93.97%(105997/112800),loss_on_train:17695.85, time:659.748546124
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 11 , acy_on_test: 88.81%(16696/18800),loss_on_test:6482.54, acy_on_train: 94.27%(106332/112800),loss_on_train:16497.68, time:657.884219885
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 12 , acy_on_test: 88.52%(16642/18800),loss_on_test:6586.58, acy_on_train: 94.67%(106786/112800),loss_on_train:15635.25, time:652.991497993
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 13 , acy_on_test: 88.57%(16652/18800),loss_on_test:6651.02, acy_on_train: 94.83%(106963/112800),loss_on_train:14997.69, time:652.401749849
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 14 , acy_on_test: 88.43%(16624/18800),loss_on_test:6948.89, acy_on_train: 95.32%(107523/112800),loss_on_train:13633.00, time:658.577965021
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 15 , acy_on_test: 88.68%(16671/18800),loss_on_test:6970.05, acy_on_train: 95.70%(107946/112800),loss_on_train:12582.27, time:656.744850159
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 16 , acy_on_test: 88.83%(16700/18800),loss_on_test:7123.78, acy_on_train: 96.04%(108336/112800),loss_on_train:11630.71, time:656.314329863
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 17 , acy_on_test: 88.54%(16645/18800),loss_on_test:7276.63, acy_on_train: 96.24%(108560/112800),loss_on_train:11018.74, time:657.046550989
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 18 , acy_on_test: 88.49%(16637/18800),loss_on_test:7476.66, acy_on_train: 96.28%(108607/112800),loss_on_train:10649.38, time:654.934676886
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 19 , acy_on_test: 88.19%(16579/18800),loss_on_test:7712.10, acy_on_train: 96.12%(108418/112800),loss_on_train:10867.85, time:654.516651869
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 20 , acy_on_test: 88.09%(16560/18800),loss_on_test:7947.10, acy_on_train: 96.60%(108965/112800),loss_on_train:9942.70, time:654.239845037
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 21 , acy_on_test: 88.47%(16633/18800),loss_on_test:8306.96, acy_on_train: 96.49%(108843/112800),loss_on_train:9644.58, time:653.000986099
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 22 , acy_on_test: 88.35%(16609/18800),loss_on_test:8576.62, acy_on_train: 96.85%(109252/112800),loss_on_train:9001.93, time:651.478621006
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 23 , acy_on_test: 88.24%(16590/18800),loss_on_test:8535.09, acy_on_train: 97.08%(109506/112800),loss_on_train:8570.76, time:651.062752962
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 24 , acy_on_test: 88.22%(16585/18800),loss_on_test:8905.78, acy_on_train: 97.36%(109826/112800),loss_on_train:7688.41, time:651.412214041
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 25 , acy_on_test: 88.27%(16594/18800),loss_on_test:8654.33, acy_on_train: 97.48%(109955/112800),loss_on_train:7760.14, time:653.318011999
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 26 , acy_on_test: 88.14%(16570/18800),loss_on_test:8720.91, acy_on_train: 97.48%(109960/112800),loss_on_train:7642.60, time:652.953784227
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 27 , acy_on_test: 88.19%(16580/18800),loss_on_test:8692.81, acy_on_train: 97.64%(110133/112800),loss_on_train:7265.29, time:661.285495996
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 28 , acy_on_test: 88.18%(16577/18800),loss_on_test:8449.49, acy_on_train: 97.92%(110455/112800),loss_on_train:7152.28, time:657.219320774
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 112800
+mini_batch_size: 10
+len(mini_batches): 11280
+total: 18800
+mini_batch_size: 10
+len(mini_batches): 1880
+Epoch - 29 , acy_on_test: 88.18%(16577/18800),loss_on_test:9040.15, acy_on_train: 97.77%(110286/112800),loss_on_train:6726.67, time:658.953841925
+Parsing Inputs...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_peak_bytes             0
+-min_residual_bytes         0
+-min_output_bytes           0
+-min_micros                 0
+-min_accelerator_micros     0
+-min_cpu_micros             0
+-min_params                 0
+-min_float_ops              1
+-min_occurrence             0
+-step                       -1
+-order_by                   float_ops
+-account_type_regexes       .*
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     float_ops
+-output                     stdout:
+
+==================Model Analysis Report======================
+
+Doc:
+scope: The nodes in the model graph are organized by their names, which is hierarchical like filesystem.
+flops: Number of float operations. Note: Please read the implementation for the math behind it.
+
+Profile:
+node name | # float_ops
+_TFProfRoot (--/6.62m flops)
+  truncated_normal_2 (3.21m/6.42m flops)
+    truncated_normal_2/mul (3.21m/3.21m flops)
+  truncated_normal_1 (51.20k/102.40k flops)
+    truncated_normal_1/mul (51.20k/51.20k flops)
+  truncated_normal_3 (48.13k/96.26k flops)
+    truncated_normal_3/mul (48.13k/48.13k flops)
+  truncated_normal (800/1.60k flops)
+    truncated_normal/mul (800/800 flops)
+  Adam/mul (1/1 flops)
+  Adam/mul_1 (1/1 flops)
+  dropout/random_uniform/sub (1/1 flops)
+  gradients/Mean_grad/Maximum (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub_1 (1/1 flops)
+  softmax_cross_entropy_with_logits_sg/Sub_2 (1/1 flops)
+
+======================End of Report==========================
+Parsing Inputs...
+
+=========================Options=============================
+-max_depth                  10000
+-min_bytes                  0
+-min_peak_bytes             0
+-min_residual_bytes         0
+-min_output_bytes           0
+-min_micros                 0
+-min_accelerator_micros     0
+-min_cpu_micros             0
+-min_params                 0
+-min_float_ops              0
+-min_occurrence             0
+-step                       -1
+-order_by                   name
+-account_type_regexes       _trainable_variables
+-start_name_regexes         .*
+-trim_name_regexes          
+-show_name_regexes          .*
+-hide_name_regexes          
+-account_displayed_op_only  true
+-select                     params
+-output                     stdout:
+
+==================Model Analysis Report======================
+
+Doc:
+scope: The nodes in the model graph are organized by their names, which is hierarchical like filesystem.
+param: Number of parameters (in the Variable).
+
+Profile:
+node name | # parameters
+_TFProfRoot (--/3.31m params)
+  Variable (5x5x1x32, 800/800 params)
+  Variable_1 (32, 32/32 params)
+  Variable_2 (5x5x32x64, 51.20k/51.20k params)
+  Variable_3 (64, 64/64 params)
+  Variable_4 (3136x1024, 3.21m/3.21m params)
+  Variable_5 (1024, 1.02k/1.02k params)
+  Variable_6 (1024x47, 48.13k/48.13k params)
+  Variable_7 (47, 47/47 params)
+
+======================End of Report==========================
+FLOPs: 6622791;    Trainable params: 3312559
+##########################################
+epoch_cost_time_train_normal= [616.91473794 614.283283   613.9393189  613.52837586 612.84261203
+ 612.27336383 616.39764309 616.54037189 614.76012301 619.69000602
+ 622.24255705 620.32339978 615.83977509 615.13447499 621.1360178
+ 619.3232491  619.06573296 619.66248512 617.67086792 616.91192889
+ 616.90684605 615.36131597 614.30188394 614.05042195 614.52775598
+ 616.04470301 615.66587019 623.53490186 619.28211689 621.09938693]
+epoch_cost_time_test_normal= [37.12270308 37.23052001 37.13248205 37.29174995 37.054281   36.73630118
+ 37.06044793 37.37390494 37.26164579 37.1441009  37.50598907 37.5608201
+ 37.15172291 37.26727486 37.44194722 37.42160106 37.24859691 37.38406587
+ 37.26380897 37.60472298 37.33299899 37.63967013 37.17673707 37.01233101
+ 36.88445807 37.27330899 37.28791404 37.75059414 37.93720388 37.85445499]
+epoch_cost_time_normal= [654.03744102 651.51380301 651.07180095 650.82012582 649.89689302
+ 649.00966501 653.45809102 653.91427684 652.02176881 656.83410692
+ 659.74854612 657.88421988 652.99149799 652.40174985 658.57796502
+ 656.74485016 656.31432986 657.04655099 654.93467689 654.51665187
+ 654.23984504 653.0009861  651.47862101 651.06275296 651.41221404
+ 653.318012   652.95378423 661.285496   657.21932077 658.95384192]
+fig_acy_on_train_normal= [0.84318262 0.87626773 0.89039007 0.90106383 0.9102039  0.91297872
+ 0.92077128 0.92359929 0.93227837 0.93435284 0.93968972 0.94265957
+ 0.9466844  0.94825355 0.95321809 0.95696809 0.96042553 0.96241135
+ 0.96282801 0.96115248 0.96600177 0.96492021 0.9685461  0.97079787
+ 0.97363475 0.97477837 0.9748227  0.97635638 0.97921099 0.97771277]
+fig_acy_on_test_normal= [0.8293617  0.85590426 0.86462766 0.87329787 0.88095745 0.88010638
+ 0.88175532 0.88058511 0.88430851 0.88329787 0.88515957 0.88808511
+ 0.88521277 0.88574468 0.88425532 0.88675532 0.88829787 0.88537234
+ 0.88494681 0.8818617  0.88085106 0.88473404 0.88345745 0.88244681
+ 0.88218085 0.88265957 0.88138298 0.88191489 0.88175532 0.88175532]
+fig_loss_on_train_normal= [53589.6484575  40623.56540421 34896.7667237  31097.80913308
+ 27653.7795224  26103.79517064 23933.61926751 22420.86443602
+ 20190.85190637 19634.25689304 17695.84544362 16497.67573066
+ 15635.24515736 14997.68781065 13633.00171286 12582.26602212
+ 11630.70579479 11018.74494091 10649.37991304 10867.85411424
+  9942.70140728  9644.5756671   9001.92549329  8570.7620877
+  7688.40729971  7760.14369524  7642.59694831  7265.2947842
+  7152.27998557  6726.66697669]
+fig_loss_on_test_normal= [9904.33682255 7965.73083796 7254.09291127 6840.27525404 6449.77856483
+ 6532.99363388 6328.12169615 6447.93272029 6266.39541061 6373.50179513
+ 6522.51678127 6482.54485627 6586.57807646 6651.02134843 6948.88602363
+ 6970.05418346 7123.77937941 7276.63445149 7476.66394808 7712.09619075
+ 7947.10055941 8306.9555928  8576.61538889 8535.08937264 8905.78340589
+ 8654.33291293 8720.90936454 8692.80591178 8449.49247392 9040.14988101]
+train time 19630.674762
